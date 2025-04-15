@@ -1,4 +1,3 @@
-index.md
 ---
 layout: home
 author_profile: true
@@ -7,11 +6,6 @@ title: "Welcome"
 
 I'm a digital strategist with a focus on SEO, analytics, and data storytelling. Below are two of my featured projects.
 
----
-title: "Projects"
-permalink: /projects/
-layout: archive
-entries_layout: grid
 ---
 
 ## Featured Projects
@@ -25,24 +19,14 @@ entries_layout: grid
   [📈 Dashboard Report](https://mashiyat210031.github.io/ga-demo)
 
 ---
-title: "About"
-permalink: /about/
-layout: single
----
+
+### About Me
 
 Hi, I'm Mashiyat! I’m passionate about SEO, digital strategy, and using data to tell stories that drive decisions.
 
 I created this portfolio to showcase my work in marketing analysis, search optimization, and dashboard building.
 
-/
-├── index.md
-├── _config.yml
-├── _pages/
-│   ├── projects.md
-│   └── about.md
-├── _data/
-│   └── navigation.yml
+---
 
-# Enable navigation bar (for projects, about, etc.)
-navigation:
-  enabled: true
+### Contact
+- [LinkedIn](https://linkedin.com/in/yourname) • [Email Me](mailto:you@example.com)
