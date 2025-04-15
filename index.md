@@ -30,4 +30,4 @@ I created this portfolio to showcase my work in marketing analysis, search optim
 ---
 
 ### Contact
-- [LinkedIn](https://linkedin.com/in/yourname) • [Email Me](mailto:you@example.com)
+- [LinkedIn](https://linkedin.com/in/mashiyatiqbal) • [Email Me](mailto:mxi210031@utdallas.edu)
