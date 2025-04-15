@@ -1,28 +1,33 @@
 index.md
 ---
 layout: home
-title: My Portfolio
+author_profile: true
+title: "Welcome"
 ---
 
-# Welcome to My Portfolio
-
-I’m passionate about SEO, digital strategy, and analytics. Here are two of my featured projects:
-
+I'm a digital strategist with a focus on SEO, analytics, and data storytelling. Below are two of my featured projects.
+---
+title: "Projects"
+permalink: /projects/
+layout: archive
+entries_layout: grid
 ---
 
-## 🔍 SEMrush SEO Audit (Mock Project)
-A mock audit using SEMrush for an outdoor gear brand. Includes site health fixes, keyword gaps, and competitor analysis.  
-[📂 View GitHub Repo](https://github.com/yourusername/semrush-audit)  
-[📄 View Report ](https://yourusername.github.io/semrush-report.pdf)
+## Featured Projects
 
+- **🔍 SEMrush SEO Audit (Mock Project)**  
+  A mock audit using SEMrush for an outdoor gear brand. Includes site health fixes, keyword gaps, and competitor analysis.  
+  [📄 View Report (PDF)](https://mashiyat210031.github.io/semrush-report.pdf)
+
+- **📊 Tableau Data Visualization (Mock Project)**  
+  Interactive dashboard for e-commerce trends, user behavior, and sales.  
+  [📈 Dashboard Report](https://mashiyat210031.github.io/ga-demo)
+---
+title: "About"
+permalink: /about/
+layout: single
 ---
 
-## 📊 Data Visualization with Tableau (Mock Project)
-Developed an interactive Tableau dashboard for a fictional e-commerce site to visualize user behavior, traffic sources, and sales performance.  
-[📂 View GitHub Repo](https://github.com/mashiyat210031/ga-dashboard)  
-[📈 Dashboard Report](https://mashiyat210031.github.io/ga-demo)
+Hi, I'm Mashiyat! I’m passionate about SEO, digital strategy, and using data to tell stories that drive decisions.
 
----
-
-### 📬 Contact
-[LinkedIn](https://linkedin.com/in/yourname) • [Email Me](mailto:you@example.com)
+I created this portfolio to showcase my work in marketing analysis, search optimization, and dashboard building.
