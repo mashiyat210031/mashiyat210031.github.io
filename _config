@@ -1,4 +1,3 @@
-_config.yml
 title: "Mashiyat's Portfolio"
 description: "SEO, data strategy, and digital marketing work"
 url: "https://mashiyat210031.github.io"
@@ -10,13 +9,12 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-# Optional: social links
 author:
   name   : "Mashiyat"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/yourname"
+      url: "https://linkedin.com/in/mashiyatiqbal"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:you@example.com"
+      url: "mailto:mxi210031@utdallas.edu"
