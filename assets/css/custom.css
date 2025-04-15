@@ -1,12 +1,12 @@
-/* Light grey background and soft white content panels */
+/* Light grey background for the whole page */
 body {
-  background-color: #f5f5f5; /* very light grey */
-  color: #333; /* dark text for contrast */
+  background-color: #f5f5f5;  /* light grey */
+  color: #333;  /* dark text for contrast */
 }
 
 /* White content box with subtle shadow */
 .page, .archive, .home {
-  background-color: #ffffff;
+  background-color: #ffffff;  /* white content box */
   border-radius: 8px;
   padding: 2rem;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
