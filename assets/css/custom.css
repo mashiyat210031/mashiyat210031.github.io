@@ -6,19 +6,6 @@ html, body {
   overflow: hidden;
 }
 
-/* Polygonal grey background */
-body::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: #7f8c8d; /* Grey color for the polygon */
-  clip-path: polygon(0 0, 100% 35%, 100% 65%, 0 100%);
-  z-index: -1;
-}
-
 /* Force content box background color */
 .page, .home, .archive {
   background-color: #ffffff !important;  /* White content box */
