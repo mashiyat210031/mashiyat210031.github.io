@@ -18,3 +18,17 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:you@example.com"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      css: "/assets/css/custom.css"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "/assets/css/custom.css"
