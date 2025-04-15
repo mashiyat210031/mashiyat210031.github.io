@@ -4,7 +4,7 @@ url: "https://mashiyat210031.github.io"
 baseurl: ""
 theme: null
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: custom
+minimal_mistakes_skin: custom  # Force custom styling
 
 plugins:
   - jekyll-include-cache
@@ -20,17 +20,16 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:you@example.com"
 
-# ✅ Custom CSS for all pages and posts
 defaults:
   -
     scope:
       path: ""
       type: "pages"
     values:
-      css: "/assets/css/custom.css"
+      css: "/assets/css/custom.css"  # Link custom CSS
   -
     scope:
       path: ""
       type: "posts"
     values:
-      css: "/assets/css/custom.css"
+      css: "/assets/css/custom.css"  # Link custom CSS
