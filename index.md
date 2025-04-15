@@ -13,14 +13,14 @@ I’m passionate about SEO, digital strategy, and analytics. Here are two of my 
 ## 🔍 SEMrush SEO Audit (Mock Project)
 A mock audit using SEMrush for an outdoor gear brand. Includes site health fixes, keyword gaps, and competitor analysis.  
 [📂 View GitHub Repo](https://github.com/yourusername/semrush-audit)  
-[📄 View Report (PDF)](https://yourusername.github.io/semrush-report.pdf)
+[📄 View Report ](https://yourusername.github.io/semrush-report.pdf)
 
 ---
 
-## 📊 Analytics Dashboard Project
-Built a Looker Studio dashboard for a mock e-commerce site with conversion funnel, source tracking, and goals.  
-[📂 View GitHub Repo](https://github.com/yourusername/ga-dashboard)  
-[🌐 Live Preview](https://yourusername.github.io/ga-demo)
+## 📊 Data Visualization with Tableau (Mock Project)
+Developed an interactive Tableau dashboard for a fictional e-commerce site to visualize user behavior, traffic sources, and sales performance.  
+[📂 View GitHub Repo](https://github.com/mashiyat210031/ga-dashboard)  
+[📈 Dashboard Report](https://mashiyat210031.github.io/ga-demo)
 
 ---
 
