@@ -4,6 +4,7 @@ url: "https://mashiyat210031.github.io"
 baseurl: ""
 theme: null
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: custom
 
 plugins:
   - jekyll-include-cache
