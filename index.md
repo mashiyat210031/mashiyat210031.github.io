@@ -3,6 +3,7 @@ layout: home
 title: "Welcome"
 author_profile: true
 css: "/assets/css/custom.css"  # 👈 This line loads your custom styles
+style: "background-color: #f5f5f5 !important;"  # Directly setting the background color
 ---
 
 I'm a digital strategist with a focus on SEO, analytics, and data storytelling. Below are two of my featured projects.
