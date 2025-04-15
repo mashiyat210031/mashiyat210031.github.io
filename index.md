@@ -1,7 +1,8 @@
 ---
 layout: home
-author_profile: true
 title: "Welcome"
+author_profile: true
+css: "/assets/css/custom.css"  # 👈 This line loads your custom styles
 ---
 
 I'm a digital strategist with a focus on SEO, analytics, and data storytelling. Below are two of my featured projects.
