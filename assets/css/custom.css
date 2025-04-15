@@ -4,6 +4,11 @@ html, body {
   color: #333;  /* Dark text for contrast */
 }
 
+/* Polygonal background pattern */
+body {
+  background: repeating-linear-gradient(45deg, #3498db, #3498db 10px, #2ecc71 10px, #2ecc71 20px);
+}
+
 /* Force content box background color */
 .page, .home, .archive {
   background-color: #ffffff !important;  /* White content box */
