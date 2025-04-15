@@ -19,16 +19,17 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:you@example.com"
 
+# ✅ Custom CSS for all pages and posts
 defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "pages"
     values:
       css: "/assets/css/custom.css"
   -
     scope:
       path: ""
-      type: "pages"
+      type: "posts"
     values:
       css: "/assets/css/custom.css"
