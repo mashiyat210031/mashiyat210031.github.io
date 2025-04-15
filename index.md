@@ -4,7 +4,7 @@ layout: home
 title: My Portfolio
 ---
 
-# 👋 Welcome to My Portfolio
+# Welcome to My Portfolio
 
 I’m passionate about SEO, digital strategy, and analytics. Here are two of my featured projects:
 
