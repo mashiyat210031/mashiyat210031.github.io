@@ -10,11 +10,11 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : "Mashiyat"
+  name: "Mashiyat"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/mashiyatiqbal"
+      url: "https://linkedin.com/in/yourname"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:mxi210031@utdallas.edu"
+      url: "mailto:you@example.com"
