@@ -1,35 +1,21 @@
 title: "Mashiyat's Portfolio"
 description: "SEO, data strategy, and digital marketing work"
-url: "https://mashiyat210031.github.io"
-baseurl: ""
-theme: null
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: custom  # Force custom styling
+url: "https://mashiyat210031.github.io"  # Your GitHub Pages URL
+baseurl: ""  # Leave this blank if your repo is USERNAME.github.io
 
+# Use the Minimal Mistakes theme (no need to fork it)
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Optional custom styles (if you’ve created custom.css)
+css:
+  - "/assets/css/custom.css"
+
+# Plugins
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
+# Author info
 author:
   name: "Mashiyat"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/yourname"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:you@example.com"
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      css: "/assets/css/custom.css"  # Link custom CSS
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      css: "/assets/css/custom.css"  # Link custom CSS
+  email: "mxi210031@utdallas.edu"
