@@ -18,4 +18,12 @@ plugins:
 # Author info
 author:
   name: "Mashiyat"
-  email: "mxi210031@utdallas.edu"
+  avatar: ""  # Optional: Add a photo later
+  bio: "SEO, analytics, and digital strategy"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:mxi210031@utdallas.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/mashiyatiqbal"
