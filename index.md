@@ -42,4 +42,4 @@ I created this portfolio to showcase my work in marketing analysis, search optim
 ---
 
 ### Contact
-- [LinkedIn](https://linkedin.com/in/mashiyatiqbal) • [Email Me](mailto:mxi210031@utdallas.edu)
+- [LinkedIn](https://linkedin.com/in/mashiyat-iqbal) • [Email Me](mailto:mxi210031@utdallas.edu)
