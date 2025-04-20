@@ -33,12 +33,12 @@ I'm a digital strategist with a focus on SEO, analytics, and data storytelling. 
 
 ---
 
-### About Me
+## Professional Journey
 
-Hi, I'm Mashiyat! I’m passionate about SEO, digital strategy, and using data to tell stories that drive decisions.
+Want to learn more about my experience, education, and career path?  
+Check out my résumé to see the full picture of my professional journey:
 
-I created this portfolio to showcase my work in marketing analysis, search optimization, and dashboard building.
-
+👉 [**View Résumé**](file:///Users/mashiyat/Downloads/Resume_Mashiyat%20Iqbal.pdf) 
 ---
 
 ### Contact
