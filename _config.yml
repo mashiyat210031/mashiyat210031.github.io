@@ -26,36 +26,8 @@ author:
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/mashiyatiqbal"
 
-      title: "Mashiyat's Portfolio"
-description: "SEO, data strategy, and digital marketing work"
-url: "https://mashiyat210031.github.io"  # Your GitHub Pages URL
-baseurl: ""  # Leave this blank if your repo is USERNAME.github.io
-
-# Use the Minimal Mistakes theme (no need to fork it)
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# Optional custom styles (if you’ve created custom.css)
-css:
-  - "/assets/css/custom.css"
-
-# Plugins
-plugins:
-  - jekyll-include-cache
-  - jekyll-remote-theme
-
-# Author info
-author:
-  name: "Mashiyat"
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:mxi210031@utdallas.edu"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/mashiyatiqbal"
-
+# ✅ Custom collection for projects
 collections:
   projects:
     output: true
     permalink: /projects/:name/
-
