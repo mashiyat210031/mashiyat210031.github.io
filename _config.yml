@@ -54,7 +54,6 @@ author:
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/mashiyatiqbal"
 
-# ✅ Add this to enable your custom projects collection
 collections:
   projects:
     output: true
