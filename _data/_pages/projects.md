@@ -1,8 +1,8 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: archive
+layout: collection
 entries_layout: grid
+classes: wide
 ---
-
 *This is a placeholder for more project summaries or thumbnails.*
