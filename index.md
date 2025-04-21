@@ -38,7 +38,7 @@ I'm a digital strategist with a focus on SEO, analytics, and data storytelling. 
 Want to learn more about my experience, education, and career path?  
 Check out my résumé to see the full picture of my professional journey:
 
-[**View Résumé**](file:///Users/mashiyat/Downloads/Resume_Mashiyat%20Iqbal.pdf) 
+[**View Résumé**](/assets/files/Resume_Mashiyat_Iqbal.pdf){:target="_blank"} 
 ---
 
 ### Contact
