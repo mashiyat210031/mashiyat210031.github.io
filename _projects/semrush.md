@@ -22,9 +22,9 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 
 **Recommendation**: Implement a regular backlink health check and consider reclaiming lost high-value links, especially on top-performing content.
 
-![SEMrush Authority Score](assets/images/semrush project 1_3.jpg)
-![SEMrush Backlink](assets/images/semrush project 1_4.jpg)
-![SEMrush Traffic](assets/images/semrush project 1_5.jpg)
+![SEMrush Authority Score](assets/images/semrushproject1_3.jpg)
+![SEMrush Backlink](assets/images/semrushproject1_4.jpg)
+![SEMrush Traffic](assets/images/semrushproject1_5.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 
 **Recommendation**: Integrate content that bridges informational and transactional intent—like “best kitchen gadgets for home cooks” or “budget-friendly meal prep kits”—to capture lower-funnel traffic and support monetization.
 
-![SEMrush keyword and intent](assets/images/semrush project 1_8.jpg)
+![SEMrush keyword and intent](assets/images/semrushproject1_8.jpg)
 
 ---
 
@@ -48,8 +48,8 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 
 **Recommendation**: Revise underperforming evergreen content and optimize for Google Discover through engaging imagery, structured data, and mobile readability.
 
-![SEMrush traffic jounrney](assets/images/semrush project 1_7.jpg)
-![SEMrush organic traffic](assets/images/semrush project 1_9.jpg)
+![SEMrush traffic jounrney](assets/images/semrushproject1_7.jpg)
+![SEMrush organic traffic](assets/images/semrushproject1_9.jpg)
 
 ---
 
@@ -61,8 +61,8 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 
 **Recommendation**: Standardize schema implementation and embed short-form video content where possible. For recipe posts, structured data and video dramatically increase eligibility for SERP features.
 
-![Content Optimization Audit](assets/images/semrush project 1_14.jpg)
-![content dashboard](assets/images/semrush project 1_13.jpg)
+![Content Optimization Audit](assets/images/semrushproject1_14.jpg)
+![content dashboard](assets/images/semrushproject1_13.jpg)
 
 ---
 
@@ -72,7 +72,7 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 - **Core Web Vitals**: Not implemented – A crucial missed opportunity.
 - **Errors**: Include broken links, slow HTML load, and invalid structured data.
 
-![Site Health Overview](assets/images/semrush project 1_15.jpg)
+![Site Health Overview](assets/images/semrushproject1_15.jpg)
 
 **Recommendation**: Prioritize Core Web Vitals optimization. Address slow-loading pages and broken links. Fix structured data errors to improve rich result eligibility.
 
@@ -85,8 +85,8 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 
 **Recommendation**: Build a seasonal content calendar informed by historical engagement trends. Lean into specific personas (e.g., picky eaters, budget-conscious cooks) to capture niche traffic.
 
-![Content keyword optimization](assets/images/semrush project 1_11.jpg)
-![search ranking optimization](assets/images/semrush project 1_10.jpg)
+![Content keyword optimization](assets/images/semrushproject1_11.jpg)
+![search ranking optimization](assets/images/semrushproject1_10.jpg)
 
 ---
 
