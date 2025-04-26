@@ -25,7 +25,7 @@ I'm a digital strategist with a focus on SEO, analytics, and data storytelling. 
 
 - **🔍 SEMrush SEO Audit (Mock Project)**  
   A mock audit using SEMrush for an outdoor gear brand. Includes site health fixes, keyword gaps, and competitor analysis.  
-  [📄 View Report (PDF)](https://mashiyat210031.github.io/semrush-report.pdf)
+  [🌐 View Full Project](https://mashiyat210031.github.io/projects/semrush/)
 
 - **📊 Tableau Data Visualization (Mock Project)**  
   Interactive dashboard for e-commerce trends, user behavior, and sales.  
