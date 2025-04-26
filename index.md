@@ -39,6 +39,7 @@ Want to learn more about my experience, education, and career path?
 Check out my résumé to see the full picture of my professional journey:
 
 [**View Résumé**](/assets/css/files/Resume_Mashiyat%20Iqbal.pdf){:target="_blank"}
+
  
 ---
 
