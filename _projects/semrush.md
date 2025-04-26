@@ -22,9 +22,9 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 
 **Recommendation**: Implement a regular backlink health check and consider reclaiming lost high-value links, especially on top-performing content.
 
-<img src="/assets/css/images/semrushproject1_3.jpg" alt="SEMRush Project">
-<img src="/assets/css/images/semrushproject1_4.jpg" alt="SEMRush Project">
-<img src="/assets/css/images/semrushproject1_5.jpg" alt="SEMRush Project">
+<img src="/assets/css/images/semrushproject1_3.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
+<img src="/assets/css/images/semrushproject1_4.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
+<img src="/assets/css/images/semrushproject1_5.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
 
 ---
 
