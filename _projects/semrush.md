@@ -36,7 +36,7 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 
 **Recommendation**: Integrate content that bridges informational and transactional intent—like “best kitchen gadgets for home cooks” or “budget-friendly meal prep kits”—to capture lower-funnel traffic and support monetization.
 
-<img src="/assets/css/images/semrushproject1_8.jpg" alt="SEMRush Project">
+<img src="/assets/css/images/semrushproject1_8.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
 
 ---
 
@@ -48,8 +48,8 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 
 **Recommendation**: Revise underperforming evergreen content and optimize for Google Discover through engaging imagery, structured data, and mobile readability.
 
-<img src="/assets/css/images/semrushproject1_7.jpg" alt="SEMRush Project">
-<img src="/assets/css/images/semrushproject1_9.jpg" alt="SEMRush Project">
+<img src="/assets/css/images/semrushproject1_7.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
+<img src="/assets/css/images/semrushproject1_9.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
 
 ---
 
@@ -61,8 +61,8 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 
 **Recommendation**: Standardize schema implementation and embed short-form video content where possible. For recipe posts, structured data and video dramatically increase eligibility for SERP features.
 
-<img src="/assets/css/images/semrushproject1_14.jpg" alt="SEMRush Project">
-<img src="/assets/css/images/semrushproject1_13.jpg" alt="SEMRush Project">
+<img src="/assets/css/images/semrushproject1_14.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
+<img src="/assets/css/images/semrushproject1_13.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
 
 ---
 
@@ -72,7 +72,7 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 - **Core Web Vitals**: Not implemented – A crucial missed opportunity.
 - **Errors**: Include broken links, slow HTML load, and invalid structured data.
 
-![Site Health Overview](assets/images/semrushproject1_15.jpg)
+<img src="/assets/css/images/semrushproject1_15.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
 
 **Recommendation**: Prioritize Core Web Vitals optimization. Address slow-loading pages and broken links. Fix structured data errors to improve rich result eligibility.
 
@@ -85,8 +85,8 @@ This project includes a mock audit of a recipe blog using SEMrush to evaluate it
 
 **Recommendation**: Build a seasonal content calendar informed by historical engagement trends. Lean into specific personas (e.g., picky eaters, budget-conscious cooks) to capture niche traffic.
 
-<img src="/assets/css/images/semrushproject1_11.jpg" alt="SEMRush Project">
-<img src="/assets/css/images/semrushproject1_10.jpg" alt="SEMRush Project">
+<img src="/assets/css/images/semrushproject1_11.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
+<img src="/assets/css/images/semrushproject1_10.jpg" alt="SEMRush Project" style="max-width: 100%; height: auto;">
 
 ---
 
