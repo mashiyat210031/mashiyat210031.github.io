@@ -20,7 +20,7 @@ The dashboard combines multiple perspectives—from temporal trends to purchasin
 
 ---
 
-![Online Retail Dashboard](../../assets/images/Online%20Retail%20Store.png)
+<img src="/assets/css/images/Online Retail Dashboard Image.png" alt="Online Retail Dashboard" style="max-width: 100%; height: auto;">
 
 ### Dashboard Analysis  
 
