@@ -29,7 +29,7 @@ I'm a digital strategist with a focus on SEO, analytics, and data storytelling. 
 
 - **📊 Tableau Data Visualization (Mock Project)**  
   Interactive dashboard for e-commerce trends, user behavior, and sales.  
-  [📈 Dashboard Report](https://mashiyat210031.github.io/ga-demo)
+  [📈 Dashboard Report](https://mashiyat210031.github.io/projects/data-visualization-with-tableau/)
 
 ---
 
