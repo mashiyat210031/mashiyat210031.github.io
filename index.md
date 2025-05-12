@@ -27,16 +27,16 @@ Below are two featured mock projects where I applied my skills in digital market
 
 - **🔍 SEMrush SEO Audit (Mock Project)**  
   A comprehensive SEO audit for a fictional outdoor gear brand. I used SEMrush to identify site health issues, keyword gaps, and competitor benchmarks.  
-  ✅ Diagnosed over 60 technical SEO issues and proposed solutions  
-  ✅ Identified high-opportunity keywords and backlink gaps for improved visibility  
-  ✅ Mapped a prioritized SEO action plan for organic growth  
+  - Diagnosed over 60 technical SEO issues and proposed solutions  
+  - Identified high-opportunity keywords and backlink gaps for improved visibility  
+  - Mapped a prioritized SEO action plan for organic growth  
   [🌐 View Full Project](https://mashiyat210031.github.io/projects/semrush/)
 
 - **📊 Tableau Data Visualization (Mock Project)**  
   An interactive dashboard created with Tableau using a retail dataset to explore sales performance and customer behavior.  
-  ✅ Revealed seasonal sales patterns and top revenue drivers  
-  ✅ Uncovered high-value customer segments based on basket size  
-  ✅ Designed clean, insightful visuals to support data-driven strategy  
+  - Revealed seasonal sales patterns and top revenue drivers  
+  - Uncovered high-value customer segments based on basket size  
+  - Designed clean, insightful visuals to support data-driven strategy  
   [📈 Dashboard Report](https://mashiyat210031.github.io/projects/data-visualization-with-tableau/)
 
 ---
