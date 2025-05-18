@@ -67,6 +67,7 @@ You can view the live version of the landing page here:
 
 <img src="assets/css/images/nova-preview.jpg" alt="Nova Landing Page Screenshot" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin-top: 1rem;">
 
+
 ---
 
 
