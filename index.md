@@ -19,7 +19,7 @@ css: "/assets/css/custom.css"
 
 Hi! I'm Mashiyat — a digital strategist who thrives on the intersection of SEO, analytics, and content-driven marketing. With hands-on experience across tools like SEMrush, Tableau, and Google Analytics, I enjoy uncovering insights that drive real business results. I'm especially passionate about using data storytelling to improve user experiences, optimize content, and build strategies that scale.
 
-Below are two featured mock projects where I applied my skills in digital marketing and analytics. Each one reflects the kind of work I love doing: turning raw data into actionable insights.
+Below are some of the featured mock projects where I applied my skills in digital marketing and analytics. Each one reflects the kind of work I love doing: turning raw data into actionable insights.
 
 ---
 
