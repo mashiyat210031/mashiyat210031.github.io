@@ -1,5 +1,5 @@
 ---
-title: "Nova Landing Page (Mock Project)"
+title: "HTML Landing Page (Mock Project)"
 excerpt: "A fully responsive, conversion-focused landing page mockup for a fictional tech company, built from scratch using semantic HTML and modern CSS."
 layout: project
 date: 2025-05-18
@@ -8,7 +8,7 @@ tags: [HTML, CSS, Web Design, Responsive Design, UI/UX, Mock Project]
 
 ## 🧪 Project Overview
 
-The **Nova Landing Page** is a fictional project created as a design and development exercise to simulate the front-end needs of a modern tech startup. The concept behind *NovaTech* is to present a clean, simple, and professional digital presence for a company focused on next-generation technology and innovation.
+The **HTML Landing Page** is a fictional project created as a design and development exercise to simulate the front-end needs of a modern tech startup. The concept behind *NovaTech* is to present a clean, simple, and professional digital presence for a company focused on next-generation technology and innovation.
 
 The project is entirely hand-coded using **HTML5** and **CSS3**, with an emphasis on responsive layout, modern visual design, and semantic structure. It was built to showcase a typical landing page experience — including a value proposition, feature overview, company bio, and contact details — all within a single-scroll, user-friendly layout.
 
@@ -74,5 +74,5 @@ You can view the live version of the landing page here:
 
 ## 🔚 Conclusion
 
-The **Nova Landing Page** project is a compact but effective showcase of essential front-end development skills. It demonstrates how clean structure, thoughtful design, and attention to detail can result in a modern and user-friendly interface — even without relying on frameworks or JavaScript. It’s a perfect example of building from the ground up with only the fundamentals: HTML and CSS.
+The **HTML Landing Page** project is a compact but effective showcase of essential front-end development skills. It demonstrates how clean structure, thoughtful design, and attention to detail can result in a modern and user-friendly interface — even without relying on frameworks or JavaScript. It’s a perfect example of building from the ground up with only the fundamentals: HTML and CSS.
 
