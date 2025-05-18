@@ -17,4 +17,4 @@ Key highlights of the project:
 
 👉 [**View Live Demo**](https://mashiyat210031.github.io/nova-landing-page/)
 
-![Nova Landing Page Preview](/assets/css/images/nova-preview.png)
+![Nova Landing Page Preview](/assets/css/images/nova-preview.jpeg)
