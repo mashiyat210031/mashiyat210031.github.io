@@ -39,6 +39,10 @@ Below are two featured mock projects where I applied my skills in digital market
   - Designed clean, insightful visuals to support data-driven strategy  
   [📈 Dashboard Report](https://mashiyat210031.github.io/projects/data-visualization-with-tableau/)
 
+- **💻 Nova Landing Page (Mock Project)**  
+  A responsive, modern landing page for a fictional tech company, built using HTML and CSS.  
+  [🚀 View Project](https://mashiyat210031.github.io/projects/nova-landing-page/)
+
 ---
 
 ## Professional Journey
