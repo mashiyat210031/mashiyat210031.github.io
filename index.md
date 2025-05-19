@@ -43,6 +43,10 @@ Below are some of the featured mock projects where I applied my skills in digita
   A responsive, modern landing page for a fictional tech company, built using HTML and CSS.  
   [🚀 View Project](https://mashiyat210031.github.io/projects/html-landing-page/)
 
+- **✉️ Email Campaign (Mock Project)**  
+  HTML-based abandoned cart email for an e-commerce brand, showcasing personalization, urgency-driven copy, and clean design.  
+  [📬 View Full Project](https://mashiyat210031.github.io/projects/email-campaign/)
+
 ---
 
 ## Professional Journey
