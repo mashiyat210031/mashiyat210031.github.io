@@ -28,4 +28,4 @@ It includes:
 ## 🔗 Code
 
 View the full HTML code on GitHub:  
-[View Email Code on GitHub](https://github.com/your-username/abandoned-cart-email/blob/main/abandoned-cart.html)
+[View Email Code on GitHub]([https://github.com/your-username/abandoned-cart-email/blob/main/abandoned-cart.html](https://raw.githubusercontent.com/mashiyat210031/Email-Campaign-Project/main/abandoned-cart.html))
